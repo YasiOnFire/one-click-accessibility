@@ -1,12 +1,12 @@
 # One Click Accessibility [![Build Status](https://travis-ci.org/pojome/one-click-accessibility.svg?branch=master)](https://travis-ci.org/pojome/one-click-accessibility) [![Dependency Status](https://david-dm.org/pojome/pojo-accessibility/dev-status.svg)](https://david-dm.org/pojome/pojo-accessibility#info=devDependencies) [![WordPress](https://img.shields.io/wordpress/v/pojo-accessibility.svg?style=flat-square)](https://wordpress.org/plugins/pojo-accessibility/) [![WordPress](https://img.shields.io/wordpress/plugin/r/pojo-accessibility.svg?style=flat-square)](https://wordpress.org/plugins/pojo-accessibility/) [![WordPress](https://img.shields.io/wordpress/plugin/v/pojo-accessibility.svg?style=flat-square)](https://wordpress.org/plugins/pojo-accessibility/) [![WordPress](https://img.shields.io/wordpress/plugin/dt/pojo-accessibility.svg?style=flat-square)](https://wordpress.org/plugins/pojo-accessibility/) [![Built with Grunt](https://cdn.gruntjs.com/builtwith.svg)](http://gruntjs.com/)
 
 
-**Contributors:** [pojo.me](https://profiles.wordpress.org/pojo.me), [KingYes](https://profiles.wordpress.org/KingYes), [ariel.k](https://profiles.wordpress.org/ariel.k), [jzaltzberg](https://profiles.wordpress.org/jzaltzberg), [bainternet](https://profiles.wordpress.org/bainternet)  
+**Contributors:** [pojo.me](https://profiles.wordpress.org/pojo.me), [KingYes](https://profiles.wordpress.org/KingYes), [ariel.k](https://profiles.wordpress.org/ariel.k), [jzaltzberg](https://profiles.wordpress.org/jzaltzberg), [bainternet](https://profiles.wordpress.org/bainternet), [yasio.dev](https://yasio.dev)    
 **Tags:** Accessibility, A11y, Toolbar, Tools, wcag, accessible  
 **Requires at least:** 4.1  
 **Tested up to:** 6.1  
 **Requires PHP:** 5.4  
-**Stable tag:** 2.1.0  
+**Stable tag:** 2.1.1  
 **License:** GPLv2 or later  
 
 The One Click Accessibility toolbar is the fastest plugin to help you make your WordPress website more accessible.
@@ -66,6 +66,9 @@ Would you like to contribute to One Click Accessibility? You are more than welco
 4. Negative Contrast Mode
 
 ## Changelog ##
+
+### 2.1.1 - 2023-08-18 ###
+* Fix: W3C validation issues
 
 ### 2.1.0 - 2022-12-18 ###
 * New: Added custom element ID for "Skip Content" link ([#35](https://github.com/pojome/one-click-accessibility/issues/35)), ([#36](https://github.com/pojome/one-click-accessibility/issues/36))

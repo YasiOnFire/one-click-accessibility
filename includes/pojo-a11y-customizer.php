@@ -275,7 +275,7 @@ class Pojo_A11y_Customizer {
 		foreach ( $this->css_rules as $selector => $css_rules ) {
 			$css .= "\n" . $selector . '{ ' . implode( "\t", $css_rules ) . '}';
 		}
-		echo '<style type="text/css">' . $css . $this->css_code . '</style>';
+		echo '<style>' . $css . $this->css_code . '</style>';
 	}
 
 	public function __construct() {

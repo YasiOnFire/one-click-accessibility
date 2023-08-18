@@ -4,7 +4,7 @@ Tags: Accessibility, A11y, Toolbar, Tools, wcag, accessible
 Requires at least: 4.1
 Tested up to: 6.1
 Requires PHP: 5.4
-Stable tag: 2.1.0
+Stable tag: 2.1.1
 License: GPLv2 or later
 
 The One Click Accessibility toolbar is the fastest plugin to help you make your WordPress website more accessible.
@@ -64,6 +64,9 @@ Would you like to contribute to One Click Accessibility? You are more than welco
 4. Negative Contrast Mode
 
 == Changelog ==
+
+= 2.1.1 - 2023-08-18 =
+* Fix: W3C validation issues
 
 = 2.1.0 - 2022-12-18 =
 * New: Added custom element ID for "Skip Content" link ([#35](https://github.com/pojome/one-click-accessibility/issues/35)), ([#36](https://github.com/pojome/one-click-accessibility/issues/36))
